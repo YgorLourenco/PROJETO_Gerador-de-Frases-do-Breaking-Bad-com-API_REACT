@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Gerador de Frases do Breaking Bad em React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para ter acesso a esse projeto [Clique aqui!](https://gerador-frases-de-breaking-bad.netlify.app/)
 
 ## Available Scripts
 
